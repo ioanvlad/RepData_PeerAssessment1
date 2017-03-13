@@ -1,8 +1,5 @@
----
-title: "Reproducible Research Course Project 1"
-author: "Ioan Vlad"
-date: "2017-03-12"
----
+# Reproducible Research Course Project 1
+Ioan Vlad, 2017-03-12
 
 ## Loading and preprocessing the data
 
